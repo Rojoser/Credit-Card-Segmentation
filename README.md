@@ -29,7 +29,7 @@ To make sense of the different clusters, we visualised the different characteris
 
 <div style="text-align: center;">
   <p float="center">
-    <img src="Micha/plot_3.png" width="600" />
-    <img src="Micha/plot_7.png" width="600" /> 
+    <img src="Micha/plot_3.png" width="500" />
+    <img src="Micha/plot_7.png" width="500" /> 
   </p>
 </div>
