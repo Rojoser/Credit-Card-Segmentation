@@ -22,14 +22,14 @@ A variety of dimensionality reduction techniques are used to find robust and mea
 
 In the end, UMAP gave the best results, as you can see in the graph below. The different clusters are clearly visible.
 
-![Silhouette score](Micha/Silhouette score.png)
+![Silhouette score]('Micha/Silhouette score.png')
 
 ## Interpretation
 To make sense of the different clusters, we visualised the different characteristics. In order to be able to compare and analyse the characteristics in a relative context, we have used scaling. Only characteristics that differ by 20% or more from the mean are displayed.
 
 <div style="text-align: center;">
   <p float="center">
-    <img src="Micha/plot_3.png" width="400" />
-    <img src="Micha/plot_7.png" width="400" /> 
+    <img src="Micha/plot_3.png" width="600" />
+    <img src="Micha/plot_7.png" width="600" /> 
   </p>
 </div>
